@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://liningx.github.io/atom.xml" rel="self"/>
   <link href="http://liningx.github.io/"/>
-  <updated>2016-02-17T21:26:44+08:00</updated>
+  <updated>2016-02-18T13:20:16+08:00</updated>
   <id>http://liningx.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[The First Blog Write by Octopress]]></title>
+    <link href="http://liningx.github.io/blog/2016/02/18/the-first-blog-write-by-octopress/"/>
+    <updated>2016-02-18T13:09:24+08:00</updated>
+    <id>http://liningx.github.io/blog/2016/02/18/the-first-blog-write-by-octopress</id>
+    <content type="html"><![CDATA[<h3>hi</h3>
+
+<blockquote><p>a
+b</p></blockquote>
+]]></content>
+  </entry>
   
 </feed>
